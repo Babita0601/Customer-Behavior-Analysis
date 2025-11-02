@@ -75,6 +75,41 @@ This analysis reveals how age, gender, and subscription status affect spending. 
 <img width="1366" height="768" alt="Screenshot (124)" src="https://github.com/user-attachments/assets/6d54d332-645d-4988-b186-31cc2d039fa6" />
 
 ---
+1. Business Problem
+A leading retail company wanted to understand customer shopping behavior to improve sales, satisfaction, and loyalty.
+They noticed changes in purchasing patterns across age groups, gender, and product categories. The company wanted to identify which factors—like discounts, reviews, seasons, and payment types—influence customer decisions and repeat purchases.
+________________________________________
+2. Goal of the Dashboard
+The goal of this dashboard was to analyze customer data and identify key trends in purchase behavior.
+It helps the company track customer segments, category-wise sales, spending patterns, and subscription status, enabling better business and marketing decisions.
+________________________________________
+3. Explaining Key Visuals
+•	Cards (Top KPIs):
+Show total number of customers (3.9K), average purchase amount ($59.76), and average review rating (3.75).
+•	Pie Chart:
+Displays the percentage of customers with or without subscriptions — 27% subscribed and 73% not subscribed.
+•	Bar Chart (Revenue by Category):
+Highlights which product categories generate the highest revenue — Clothing leads, followed by Accessories.
+•	Bar Chart (Sales by Category):
+Shows how many sales each category achieved, helping to spot top-selling items.
+•	Bar Charts (Revenue and Sales by Age Group):
+Show that young adults and middle-aged groups are the most valuable customers in terms of both revenue and sales.
+•	Slicers (Filters):
+Allow filtering by subscription status, gender, category, and shipping type, making the dashboard interactive and easy to explore.
+________________________________________
+4. Key Insights
+•	Clothing and Accessories are the most profitable categories.
+•	27% of customers are subscribers, who tend to spend more than non-subscribers.
+•	Young adults (25–40 years) generate the highest revenue and purchase frequency.
+•	Female customers contribute slightly more to overall sales.
+•	Most customers give positive review ratings (avg 3.75), indicating general satisfaction.
+________________________________________
+5. Business Impact
+•	Helped the company identify loyal and high-value customers for targeted marketing.
+•	Guided marketing teams to focus on top-performing categories and profitable customer segments.
+•	Improved customer retention through subscription offers and loyalty programs.
+•	Enabled data-driven business decisions, improving overall sales and customer satisfaction.
+
 
 ## 👩‍💻 Author
 
